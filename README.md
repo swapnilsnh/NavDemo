@@ -1,2 +1,0 @@
-# NavDemo
-Nav Drawer Demo
